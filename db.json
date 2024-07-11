@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 678584,
+      "categort": "student",
+      "title": "HI ",
+      "description":"Hello",
+      "location":"CNX",
+      "date":"Jan 23, 2003",
+      "time":"00.00",
+      "petsAllowed": false,
+      "organizer":"Ksne Wales"
     }
   ]
 }
